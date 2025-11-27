@@ -184,8 +184,3 @@ python train.py --csv data/AMZN.csv --episodes 200 --save models/dqn_amzn.pth
 
 This project is provided for educational purposes. 
 
-If you want help converting this into a reproducible package, creating evaluation plots, or adding CLI/argparse support, open an issue or contact the maintainer.
-
----
-
-*End of README*
